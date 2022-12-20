@@ -1,5 +1,7 @@
 #!/usr/bin/with-contenv bash
 
+exit 0
+
 # Display variables for troubleshooting
 echo -e "Variables set:\\n\
 PUID=${PUID}\\n\
